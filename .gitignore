@@ -1,0 +1,15 @@
+.history/
+.vscode/
+.vs/
+.tmp/
+logs/
+dist/
+
+node_modules
+flow-typed
+
+*.DS_Store
+*.bundle.js
+*.db
+
+.env
